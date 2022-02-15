@@ -1,0 +1,16 @@
+
+
+/*main*/
+
+.main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+  }
+td {
+    text-align: center;
+    font-weight: 800;
+    font-family: cursive;
+    color: #af79ad;
+    font-size: 21px;
+}
+ 
